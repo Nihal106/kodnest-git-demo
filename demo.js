@@ -7,6 +7,7 @@
 // console.log("Division: " + (a / b));
 // console.log("Modulus:" +(a % b));
 // console.log("Exponentiation: " + (a ** b));
+console.log("HELLO");
 
 
 a = 5;
